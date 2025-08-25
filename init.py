@@ -1,0 +1,1 @@
+print("Initializing Nenis Discord Rich Presence")
